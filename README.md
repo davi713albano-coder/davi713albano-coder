@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Davi%20AlBano&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Open%20Source%20Contributor%20%C2%B7%20Security%20%26%20Dev%20Tools%20for%20AI&descSize=18&descAlignY=55&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Davi%20AlBano&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Open%20Source%20Contributor%20%C2%B7%20AI%20Security%20Developer%20Tools&descSize=18&descAlignY=55&descColor=94a3b8" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -106,7 +106,7 @@ const davi = {
           <img src="https://img.shields.io/badge/Agent_Security_Scanner-0f172a?style=for-the-badge&logo=shield&logoColor=38BDF8" />
         </a>
       </td>
-      <td>Security scanner for AI agents — detects prompt injection, jailbreaks, dangerous tools & data exposure</td>
+      <td>Security scanner for AI agents — detects prompt injection, jailbreaks, dangerous tools and data exposure</td>
       <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
     </tr>
     <tr>
