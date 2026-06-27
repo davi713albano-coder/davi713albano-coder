@@ -31,20 +31,23 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcIpO2UI1qvM9X/giphy.gif" width="40" /> About Me
 
-```typescript
-const davi = {
-  location: "Brazil",
-  languages: ["TypeScript", "Python", "Go"],
-  focus: ["AI Security", "Dev Tooling", "Open Source"],
-  currently: [
-    "Building security scanners for AI agents",
-    "Contributing to open source projects",
-    "Creating CLI tools that devs actually enjoy using"
-  ],
-  askMeAbout: ["AI agent safety", "MCP servers", "system design"],
-  funFact: "I built a filesystem firewall before it was cool"
-};
-```
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=davi713albano-coder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=e2e8f0&ring_color=1e293b&hide_title=true&count_private=true" width="380" />
+
+🇧🇷 Full-stack developer from Brazil
+
+🔨 Currently building security tools for AI agents
+
+📡 MCP Server enthusiast — bringing Brazilian APIs to AI workflows
+
+🛡️ Open source contributor — 5+ PRs merged across projects
+
+🔒 Passionate about AI agent safety, filesystem firewalls and dev tooling
+
+🎯 2026 goals: ship more open source, grow my projects, connect with the community
+
+💡 Fun fact: I built a filesystem firewall before it was cool
+
+<br clear="both" />
 
 <br/>
 
