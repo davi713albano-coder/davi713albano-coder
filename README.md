@@ -13,8 +13,8 @@
 <!-- Social Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/davi713albano-coder?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=1e293b)](https://github.com/davi713albano-coder?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/davi713albano-coder?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=1e293b)](https://github.com/davi713albano-coder?tab=stars)
-[![Open Source](https://img.shields.io/badge/Open_Source-5_PRs_%2B-0f172a?style=for-the-badge&logo=git&logoColor=38BDF8)](https://github.com/pulls?q=author:davi713albano-coder)
-[![Location](https://img.shields.io/badge/Location-Brazil-0f172a?style=for-the-badge&logo=flag&logoColor=38BDF8)]()
+[![Open Source](https://img.shields.io/badge/Open_Source-15_PRs-0f172a?style=for-the-badge&logo=git&logoColor=38BDF8)](https://github.com/pulls?q=author:davi713albano-coder)
+[![Location](https://img.shields.io/badge/Location-%F0%9F%87%A7%F0%9F%87%B7_Brazil-0f172a?style=for-the-badge&logoColor=38BDF8)]()
 
 </div>
 
@@ -39,7 +39,7 @@
 
 📡 MCP Server enthusiast — bringing Brazilian APIs to AI workflows
 
-🛡️ Open source contributor — 5+ PRs merged across projects
+🛡️ Open source contributor — 15+ PRs across projects
 
 🔒 Passionate about AI agent safety, filesystem firewalls and dev tooling
 
@@ -106,7 +106,7 @@
     <tr>
       <td>
         <a href="https://github.com/davi713albano-coder/agent-security-scanner">
-          <img src="https://img.shields.io/badge/Agent_Security_Scanner-0f172a?style=for-the-badge&logo=shield&logoColor=38BDF8" />
+          <img src="https://img.shields.io/badge/Agent_Security_Scanner-0f172a?style=for-the-badge&logo=snyk&logoColor=38BDF8" />
         </a>
       </td>
       <td>Security scanner for AI agents — detects prompt injection, jailbreaks, dangerous tools and data exposure</td>
@@ -115,7 +115,7 @@
     <tr>
       <td>
         <a href="https://github.com/davi713albano-coder/tokenwise">
-          <img src="https://img.shields.io/badge/TokenWise-0f172a?style=for-the-badge&logo=chartbar&logoColor=38BDF8" />
+          <img src="https://img.shields.io/badge/TokenWise-0f172a?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8" />
         </a>
       </td>
       <td>Cross-agent token waste analytics + automated fixes for Claude Code, OpenCode, and Cursor</td>
@@ -124,7 +124,7 @@
     <tr>
       <td>
         <a href="https://github.com/davi713albano-coder/walls">
-          <img src="https://img.shields.io/badge/Walls-0f172a?style=for-the-badge&logo=firewall&logoColor=38BDF8" />
+          <img src="https://img.shields.io/badge/Walls-0f172a?style=for-the-badge&logo=cloudflare&logoColor=38BDF8" />
         </a>
       </td>
       <td>Filesystem firewall — protects, monitors and rollbacks file changes in real-time</td>
@@ -133,7 +133,7 @@
     <tr>
       <td>
         <a href="https://github.com/davi713albano-coder/mcp-server-brasil">
-          <img src="https://img.shields.io/badge/MCP_Server_Brasil-0f172a?style=for-the-badge&logo=brazil&logoColor=22C55E" />
+          <img src="https://img.shields.io/badge/MCP_Server_Brasil-0f172a?style=for-the-badge&logo=modelcontextprotocol&logoColor=22C55E" />
         </a>
       </td>
       <td>MCP Server with Brazilian APIs (CNPJ, CEP, currency quotes)</td>
@@ -151,7 +151,7 @@
     <tr>
       <td>
         <a href="https://github.com/davi713albano-coder/leadfinder-ai">
-          <img src="https://img.shields.io/badge/LeadFinder_AI-0f172a?style=for-the-badge&logo=magnifyingglass&logoColor=38BDF8" />
+          <img src="https://img.shields.io/badge/LeadFinder_AI-0f172a?style=for-the-badge&logo=algolia&logoColor=38BDF8" />
         </a>
       </td>
       <td>Find local businesses without websites — prospecting CLI for freelance web devs</td>
@@ -173,13 +173,13 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHp3OWRwOWRibHBmbjJ6bTZ2cGcxcnBjbTBwY3JwY2owcnR2a2RoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACUlPpu/giphy.gif" width="40" /> Open Source Contributions
 
-| Project | Type | PR |
-|---------|------|----|
-| **SpxOpenCode** | Unit Tests | [#39 — classify() edge-case tests](https://github.com/spxmiguel/SpxOpenCode/pull/39) |
-| **kana-dojo** | Content | [#22187 — Japanese proverb](https://github.com/lingdojo/kana-dojo/pull/22187) |
-| **Tokenized-Fractional** | Infra | [#139 — .editorconfig](https://github.com/Trust-Analysis/Tokenized-Fractional-/pull/139) |
-| **remitlend** | Infra / Security | [#1122 — frontend/.dockerignore](https://github.com/LabsCrypt/remitlend/pull/1122) |
-| **LeadOrbit** | Bug Fix | [#464 — Prevent duplicate tags](https://github.com/Kuldeeep18/LeadOrbit/pull/464) |
+| Project | Type | PR | Status |
+|---------|------|----|--------|
+| **SpxOpenCode** | Unit Tests | [#39 — classify() edge-case tests](https://github.com/spxmiguel/SpxOpenCode/pull/39) | ✅ Merged |
+| **kana-dojo** | Content | [#22187 — Japanese proverb](https://github.com/lingdojo/kana-dojo/pull/22187) | ✅ Merged |
+| **Tokenized-Fractional** | Infra | [#139 — .editorconfig](https://github.com/Trust-Analysis/Tokenized-Fractional-/pull/139) | ✅ Merged |
+| **remitlend** | Infra / Security | [#1122 — frontend/.dockerignore](https://github.com/LabsCrypt/remitlend/pull/1122) | ✅ Merged |
+| **LeadOrbit** | Bug Fix | [#464 — Prevent duplicate tags](https://github.com/Kuldeeep18/LeadOrbit/pull/464) | 🔄 Open |
 
 <br/>
 
