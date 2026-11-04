@@ -2,38 +2,42 @@
 
 # Davi AlBano
 
-Full-stack developer Â· Open source contributor Â· Building security & dev tools for AI agents
+**Full-stack developer** · building security & dev tools for AI agents
 
 [![GitHub](https://img.shields.io/badge/GitHub-davi713albano--coder-181717?logo=github)](https://github.com/davi713albano-coder)
-[![PRs](https://img.shields.io/badge/Open_Source-12_PRs-0969da?logo=github)](https://github.com/davi713albano-coder?tab=overview&from=2026-01-01)
-[![Location](https://img.shields.io/badge/Location-Brazil-1a7f37)](https://github.com/davi713albano-coder)
+[![Open Source](https://img.shields.io/badge/Open_Source-12_PRs-0969da?logo=github)](https://github.com/davi713albano-coder)
+[![Location](https://img.shields.io/badge/Brazil-1a7f37?logo=googlemaps&logoColor=white)](https://github.com/davi713albano-coder)
+
+<img src="https://skillicons.dev/icons?i=ts,python,go,nodejs,react,nextjs,docker,postgres&theme=dark" alt="Tech stack" />
 
 </div>
 
----
+## 🧰 About
 
-### â€” About
+- Building **[agent-security-scanner](https://github.com/davi713albano-coder/agent-security-scanner)** and **[walls](https://github.com/davi713albano-coder/walls)** — safety tooling for AI agents
+- Creating **[mcp-server-brasil](https://github.com/davi713albano-coder/mcp-server-brasil)** — Brazilian APIs (CNPJ, CEP, currency) as an MCP server
+- TypeScript · Python · Go · MCP
 
-- Building **[agent-security-scanner](https://github.com/davi713albano-coder/agent-security-scanner)** and **[walls](https://github.com/davi713albano-coder/walls)** â€” safety tooling for AI agents
-- Creating **[mcp-server-brasil](https://github.com/davi713albano-coder/mcp-server-brasil)** â€” Brazilian APIs (CNPJ, CEP, currency) as an MCP server
-- TypeScript Â· Python Â· Go Â· MCP
+## 🚀 Featured
 
----
+- **[walls](https://github.com/davi713albano-coder/walls)** — filesystem firewall: protects, monitors and rolls back file changes in real time · `TypeScript`
+- **[agent-security-scanner](https://github.com/davi713albano-coder/agent-security-scanner)** — detects prompt injection, jailbreaks and dangerous tools in AI agents · `Python`
+- **[TokenWise](https://github.com/davi713albano-coder/tokenwise)** — token waste analytics + automated fixes for Claude Code, OpenCode and Cursor · `TypeScript`
+- **[mcp-server-brasil](https://github.com/davi713albano-coder/mcp-server-brasil)** — MCP server with Brazilian APIs (CNPJ, CEP, currency quotes) · `TypeScript`
+- **[auto-readme](https://github.com/davi713albano-coder/auto-readme)** — CLI that analyzes repos and generates professional READMEs · `TypeScript`
 
-### â€” Open source
+## 🤝 Open source
 
 | Project | PR |
 |---|---|
-| [oras](https://github.com/oras-project/oras/pull/2216) | #2216 â€” pin CI action refs to commit SHAs Â· merged |
-| [letmepost.dev](https://github.com/letmepost/letmepost.dev/pull/123) | #123 â€” skeleton heights match dashboard cards Â· merged |
-| [remitlend](https://github.com/LabsCrypt/remitlend/pull/1122) | #1122 â€” frontend/.dockerignore Â· merged |
-| [kana-dojo](https://github.com/lingdojo/kana-dojo/pull/22187) | #22187 â€” Japanese proverb Â· merged |
-| [SpxOpenCode](https://github.com/spxmiguel/SpxOpenCode/pull/39) | #39 â€” edge-case unit tests for classify() Â· merged |
-| [Tokenized-Fractional](https://github.com/Trust-Analysis/Tokenized-Fractional-/pull/139) | #139 â€” .editorconfig Â· merged |
+| [oras](https://github.com/oras-project/oras/pull/2216) | #2216 — pin CI action refs to commit SHAs · merged |
+| [letmepost.dev](https://github.com/letmepost/letmepost.dev/pull/123) | #123 — skeleton heights match dashboard cards · merged |
+| [remitlend](https://github.com/LabsCrypt/remitlend/pull/1122) | #1122 — frontend/.dockerignore · merged |
+| [kana-dojo](https://github.com/lingdojo/kana-dojo/pull/22187) | #22187 — Japanese proverb · merged |
+| [SpxOpenCode](https://github.com/spxmiguel/SpxOpenCode/pull/39) | #39 — edge-case unit tests for classify() · merged |
+| [Tokenized-Fractional](https://github.com/Trust-Analysis/Tokenized-Fractional-/pull/139) | #139 — .editorconfig · merged |
 
----
-
-### â€” Stats
+## 📊 Stats
 
 <div align="center">
 
