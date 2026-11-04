@@ -41,7 +41,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davi713albano-coder&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi713albano-coder&layout=compact&hide_border=true&theme=dark&langs_count=6" alt="Top languages" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davi713albano-coder&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davi713albano-coder&theme=default" alt="Profile details" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi713albano-coder&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi713albano-coder&theme=default" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi713albano-coder&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi713albano-coder&theme=default" alt="Top languages" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davi713albano-coder&theme=dark&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davi713albano-coder&theme=default&utcOffset=-3" alt="Productive time" />
+</picture>
 
 </div>
