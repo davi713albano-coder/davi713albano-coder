@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1f22,50:5865f2,100:7289da&height=210&section=header&text=Davi%20AlBano&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Open%20Source&descSize=18&descAlignY=62&animation=fadeIn" alt="Davi AlBano Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1f22,50:5865f2,100:7289da&height=210&section=header&text=Davi713&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Open%20Source&descSize=18&descAlignY=62&animation=fadeIn" alt="Davi713 Banner" />
 
 <!-- Animated Typing Tagline -->
 <a href="https://github.com/davi713albano-coder">
@@ -30,10 +30,10 @@
 
 ## 🤖 About Me
 
-Hi! I'm **Davi AlBano**, a developer from **Brazil** focused on **Discord bot engineering**, interactive community platforms, and full-stack developer tooling.
+Hi! I'm **Davi713**, a developer from **Brazil** focused on **Discord bot engineering**, interactive community platforms, and full-stack developer tooling.
 
 ```ts
-const davi = {
+const davi713 = {
   focus: ["Discord Bots (discord.js v14/v15 & discord.py)", "Components V2", "Full-Stack APIs"],
   stack: ["TypeScript", "JavaScript", "Python", "Node.js", "Go", "MongoDB", "PostgreSQL"],
   building: [
@@ -165,7 +165,7 @@ const davi = {
 <div align="center">
 
 <p>
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=davi713albano-coder&show_icons=true&hide_border=true&bg_color=1e1f22&title_color=5865f2&icon_color=57f287&text_color=dbdee1&ring_color=5865f2" alt="Davi's GitHub Stats" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=davi713albano-coder&show_icons=true&hide_border=true&bg_color=1e1f22&title_color=5865f2&icon_color=57f287&text_color=dbdee1&ring_color=5865f2" alt="Davi713's GitHub Stats" />
   <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davi713albano-coder&layout=compact&hide_border=true&bg_color=1e1f22&title_color=5865f2&text_color=dbdee1&langs_count=6" alt="Top Languages" />
 </p>
 
