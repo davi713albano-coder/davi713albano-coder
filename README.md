@@ -108,36 +108,36 @@ const davi = {
       <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Bot" />
     </td>
     <td width="50%" valign="top">
-      <h4>🏆 <a href="https://github.com/davi713albano-coder/aftermath-platform">aftermath-platform</a></h4>
-      <p>Full architecture & planning for a tournament platform connecting a website, admin panel, Discord bot, and shared backend.</p>
-      <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Bot" />
-      <img src="https://img.shields.io/badge/Full--Stack-1E1F22?style=flat-square&logo=vercel&logoColor=white" alt="Full-Stack" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>🧱 <a href="https://github.com/davi713albano-coder/walls">walls</a></h4>
       <p>Filesystem firewall that protects, monitors, and rolls back unauthorized file modifications in real time.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Security-ED4245?style=flat-square&logo=shield&logoColor=white" alt="Security" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🇧🇷 <a href="https://github.com/davi713albano-coder/mcp-server-brasil">mcp-server-brasil</a></h4>
       <p>MCP Server exposing Brazilian public APIs (CNPJ, CEP, currency exchange rates) to AI agents.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/MCP_Server-7C3AED?style=flat-square" alt="MCP Server" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🛡️ <a href="https://github.com/davi713albano-coder/agent-security-scanner">agent-security-scanner</a></h4>
       <p>Security scanner for AI agents — detects prompt injections, jailbreaks, risky tools, and data leaks.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/AI_Safety-FEE75C?style=flat-square&logoColor=black" alt="AI Safety" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/davi713albano-coder/tokenwise">TokenWise</a> & <a href="https://github.com/davi713albano-coder/auto-readme">auto-readme</a></h4>
-      <p>Developer CLI tools: cross-agent token waste analytics for AI coding agents and automated README generation.</p>
+      <h4>📊 <a href="https://github.com/davi713albano-coder/tokenwise">TokenWise</a></h4>
+      <p>Cross-agent token waste analytics and automated fixes for Claude Code, OpenCode, and Cursor.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Analytics-5865F2?style=flat-square" alt="Analytics" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📝 <a href="https://github.com/davi713albano-coder/auto-readme">auto-readme</a></h4>
+      <p>CLI tool that analyzes repositories and automatically generates clean, structured README.md files.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/CLI-2B2D31?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
     </td>
