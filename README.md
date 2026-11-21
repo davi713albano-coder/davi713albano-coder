@@ -160,6 +160,34 @@ const davi713 = {
 
 ---
 
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+<p>
+  <a href="https://github.com/davi713albano-coder?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="76" alt="Achievement: Pull Shark" title="Pull Shark — Opened pull requests that have been merged" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/davi713albano-coder?tab=achievements">
+    <img src="https://img.shields.io/badge/Pull_Shark-GitHub_Achievement-5865F2?style=flat-square&logo=github&logoColor=white" alt="Pull Shark" />
+  </a>
+</p>
+
+<br />
+
+<p>
+  <a href="https://github.com/davi713albano-coder">
+    <img src="https://github-trophies.vercel.app/?username=davi713albano-coder&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Davi713's GitHub Trophies" />
+  </a>
+</p>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
