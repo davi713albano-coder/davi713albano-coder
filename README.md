@@ -150,7 +150,7 @@ const davi713 = {
 
 | Project | Contribution | Status |
 | :--- | :--- | :---: |
-| **[Leonida](https://github.com/ItsNotRexed/Leonida/pulls?q=is%3Apr+author%3Adavi713albano-coder)** | `#651` (merged — semantic value tests for `v_fma_mix_*`) & `#2306` (`bink_names` `--pins` CSV validation and `--out` directory guard) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square) |
+| **[Leonida](https://github.com/ItsNotRexed/Leonida/pulls?q=is%3Apr+author%3Adavi713albano-coder)** | `#651` (merged — `v_fma_mix_*` semantic value tests), `#2306` (`bink_names` `--pins` & `--out` guards) & `#2559` (`instance_lists` RPF9 header & offset-`0` schema validation) | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square) |
 | **[discord-transcriptify](https://github.com/cauahzz/discord-transcriptify/pulls?q=is%3Apr+author%3Adavi713albano-coder)** | 5 PRs — slash mentions, safe links, section thumbnail preview, animated WebP, Components V2 & system messages | ![Open](https://img.shields.io/badge/Open-5865F2?style=flat-square) |
 | **[oras](https://github.com/oras-project/oras/pull/2216)** | `#2216` — pin CI action refs to commit SHAs | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square) |
 | **[letmepost.dev](https://github.com/letmepost/letmepost.dev/pull/123)** | `#123` — align skeleton heights with dashboard cards | ![Merged](https://img.shields.io/badge/Merged-8957E5?style=flat-square) |
